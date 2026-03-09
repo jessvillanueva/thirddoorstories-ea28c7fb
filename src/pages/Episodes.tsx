@@ -151,7 +151,7 @@ const Episodes = () => {
           <h1>Episodes</h1>
           <p className="body-base text-foreground/[0.65] max-w-[640px]">
             Each episode follows one builder who found a way in through a door most people didn't know
-            existed — and what it actually felt like from the inside.
+            existed and what it actually felt like from the inside.
           </p>
         </section>
         {phases.map((phase) => {
