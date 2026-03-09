@@ -50,8 +50,8 @@ const mapEntries: MapEntry[] = [
   { name: "Polar Fellowship", type: "Fellowship", location: "UK", description: "9-month programme in Oxford, Cambridge, and London for talented people from high school dropouts to final year PhDs.", tags: ["Fellowships"], url: "https://www.polaris-fellowship.com/" },
 
   // Residencies
-  { name: "The Residency", type: "Residency", location: "Multi-city", description: "A builder residency for early-stage founders and creators shipping a concrete project.", tags: ["Residencies"], url: "https://theresidency.xyz" },
-  { name: "Nautilus Residency", type: "Residency", location: "San Francisco", description: "In-person builder residency focused on deep work, storytelling, and ambitious projects.", tags: ["Residencies"], url: "https://nautilus.house" },
+  { name: "The Residency", type: "Residency", location: "Multi-city", description: "A builder residency for early-stage founders and creators shipping a concrete project.", tags: ["Residencies"], url: "https://www.livetheresidency.com" },
+  { name: "Nautilus", type: "Residency", location: "San Francisco", description: "A fully funded three-month live-in atelier for under-23 budding polymaths in art, science, and technology.", tags: ["Residencies"], url: "https://www.nautilus.quest" },
   { name: "Astera Residency", type: "Residency", location: "US", description: "$125K–$250K residency providing talented people freedom and support to create new machinery of science.", tags: ["Residencies"], url: "https://astera.org/residency/" },
   { name: "Antikythera Studio", type: "Residency", location: "US", description: "$5K residency selecting 12–18 interdisciplinary researchers including engineers, designers, scientists, and technologists to develop speculative prototypes.", tags: ["Residencies"], url: "https://antikythera.org/studios" },
 
