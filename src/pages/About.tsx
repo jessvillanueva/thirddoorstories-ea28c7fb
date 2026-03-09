@@ -64,8 +64,8 @@ const About = () => {
             </p>
             <p>
               Over the next few years I repeated that move at bigger scales. I found builder
-              networks like Socratica, V2, 1517 Fund, and The Residency. Not school clubs you hear
-              about in newsletters. Communities you find through late night DMs, side chats, and
+              networks like Socratica, V2, 1517 Fund, and The Residency. Not school clubs one hears
+              about in newsletters. Communities found through late night DMs, side chats, and
               half hidden posts. Same kid, different rooms. Completely different ceiling.
             </p>
             <p>
