@@ -56,8 +56,8 @@ const mapEntries: MapEntry[] = [
   { name: "Antikythera Studio", type: "Residency", location: "US", description: "$5K residency selecting 12–18 interdisciplinary researchers including engineers, designers, scientists, and technologists to develop speculative prototypes.", tags: ["Residencies"], url: "https://antikythera.org/studios" },
 
   // Hacker Houses
-  { name: "North House", type: "Hacker House", location: "Canada", description: "A Canadian builder house bringing together early-stage founders and ambitious young people to work in proximity.", tags: ["Hacker Houses"], url: "https://northhouse.ca" },
-  { name: "Hack Lodge", type: "Hacker House", location: "San Francisco", description: "A hacker house for builders who ship fast, focused on demos over decks.", tags: ["Hacker Houses"], url: "https://www.hacklodge.com" },
+  { name: "North House", type: "Hacker House", location: "Vancouver", description: "A home for the startups changing the GDP of Vancouver, bringing together early-stage founders to work in proximity.", tags: ["Hacker Houses"], url: "https://www.joinnorthhouse.com" },
+  { name: "Hack Lodge", type: "Hacker House", location: "San Francisco", description: "An immersive week-long software development program for undergrads, focused on shipping a polished product by the end.", tags: ["Hacker Houses"], url: "https://hacklodge.org" },
 
   // Programs & Communities
   { name: "Socratica", type: "Community", location: "Waterloo / Remote", description: "A community of builders, researchers, and artists who get together to work on hard things. No pitch, no investors, just people making things.", tags: ["Hacker Houses", "Programs"], url: "https://www.socratica.info" },
