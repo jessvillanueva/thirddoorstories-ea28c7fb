@@ -174,7 +174,7 @@ const About = () => {
         </section>
 
         {/* Backed by */}
-        <section className="mt-16 mb-8 flex flex-col gap-8">
+        <section className="mt-16 mb-8 flex flex-col gap-8 bg-card rounded-2xl p-8">
           <h2>Backed By</h2>
           <div className="flex items-center justify-center gap-8">
             <img src={logo1517} alt="1517 Fund" className="h-10 object-contain" />
