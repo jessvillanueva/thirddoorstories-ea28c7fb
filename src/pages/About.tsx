@@ -56,11 +56,11 @@ const About = () => {
           <h2>My Story</h2>
           <div className="flex flex-col gap-6 body-base text-foreground/[0.65]">
             <p>
-              When I was 14, I finished my work early in class, convinced my teachers to excuse me,
-              and rode a bus every month to crash a science club with older kids — the kind where
-              they played with fire and exploded bottles with baking soda and vinegar. They were nerdy,
-              experimental, and genuinely fun. That one room quietly reset my ceiling for what was
-              possible.
+              When I was 14, I finished my work early in class, convinced my teachers to excuse me
+              out, and rode a bus every month to crash a science club with kids that played with fire
+              and exploded bottles with baking soda and vinegar. They were nerdy, experimental, and
+              fun-loving. It sparked me. That one room redefined the ceiling for what felt possible
+              to me.
             </p>
             <p>
               Over the next few years I repeated that move at bigger scales. I found builder
