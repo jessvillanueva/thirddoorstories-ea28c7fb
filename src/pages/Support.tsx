@@ -1,5 +1,6 @@
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
+import EmailCaptureBar from "@/components/EmailCaptureBar";
 import { Button } from "@/components/ui/button";
 
 const PATREON_JOIN = "https://www.patreon.com/15019639/join";
@@ -84,6 +85,11 @@ const Support = () => {
               <span className="body-small text-foreground/[0.45]">Get notified when new episodes and essays drop.</span>
             </a>
           </div>
+        </section>
+
+        {/* Email Capture */}
+        <section className="mb-16">
+          <EmailCaptureBar />
         </section>
 
         {/* Paid Tiers */}
