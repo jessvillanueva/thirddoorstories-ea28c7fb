@@ -202,7 +202,7 @@ const About = () => {
           </div>
         </section>
 
-        <hr className="my-10 border-foreground/10" />
+        <hr className="my-7 border-foreground/10" />
 
         {/* Unlatching Third Doors */}
         <section className="flex flex-col gap-5">
