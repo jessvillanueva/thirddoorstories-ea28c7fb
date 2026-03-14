@@ -40,7 +40,7 @@ const About = () => {
             The problem? No one ever really shows them what&apos;s actually in between.
           </p>
           <p>
-            Third Door Stories is a small documentary studio and essay lab mapping the hidden builder ecosystem most college admissions officers have ever heard of.
+            Third Door Stories is a small documentary studio and essay lab mapping the hidden builder ecosystem most college admissions officers have never heard of.
           </p>
         </div>
 
@@ -83,7 +83,7 @@ const About = () => {
           <h2>From Bus Rides to Possibilities</h2>
           <div className="flex flex-col gap-5 body-base text-foreground/[0.65]">
             <p>
-              When I was 14 in my final year of middle school, I stayed ahead in all my classes, convinced my teachers to excuse me out early, and rode a bus every month to crash a science club in high school. The older kids literally played with fire and blew up bottles with baking soda and vinegar.
+              When I was 14 in my final year of middle school, I stayed ahead in all my classes, convinced my teachers to excuse me out early, and rode a bus every month to crash a science club in high school. The older kids literally played with fire and blew up bottles with baking soda and vinegar. Our irrationally passionate science teacher lit flames in our hearts to nerd out, stay weird, and be curious.
             </p>
             <p>
               That one room reset my ceiling for what was possible.
@@ -109,7 +109,7 @@ const About = () => {
             <ul className="flex flex-col gap-2 list-disc list-inside">
               <li>Won $1,000 grant from 1517 Fund</li>
               <li>Landed Top 20 in The Residency&apos;s Delta Chapter II as the only filmmaker flying solo</li>
-              <li>Finished Buildspace S5 (Top 1000) and flew to SF for demo day</li>
+              <li>Finished buildspace s5 (Top 1000) and flew to SF for demo day</li>
               <li>Spent time at Socratica nodes, Cansbridge, builder communities and legit founder events</li>
             </ul>
             <p>
@@ -142,7 +142,7 @@ const About = () => {
               <li>Residencies like Nautilus, The Residency, Edge City</li>
               <li>Hacker houses like FR8</li>
               <li>Fellowships like On Deck and Z Fellows</li>
-              <li>Builder communities like Socratica, Verci, Cansbridge, F.inc, and others doing quiet yet serious work</li>
+              <li>Builder communities like Socratica, Verci, Cansbridge, f.inc, and others doing quiet yet serious work</li>
               <li>First client stories, product validation without VC, and navigating family pressure when going off script</li>
             </ul>
           </div>
@@ -152,7 +152,7 @@ const About = () => {
 
         {/* Peer Documentation */}
         <section className="flex flex-col gap-5">
-          <h2>Peer Documentation, &gt; Polished Hindsight</h2>
+          <h2>Peer Documentation &gt; Polished Hindsight</h2>
           <div className="flex flex-col gap-5 body-base text-foreground/[0.65]">
             <p>
               I&apos;m not a grown adult looking back with tidy hindsight. I&apos;m 18, in Vancouver, living the tradeoffs I&apos;m investigating.
