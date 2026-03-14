@@ -152,7 +152,7 @@ const About = () => {
 
         {/* Peer Documentation */}
         <section className="flex flex-col gap-5">
-          <h2>Peer Documentation, &gt; Polished Hindsight</h2>
+          <h2>Peer Documentation &gt; Polished Hindsight</h2>
           <div className="flex flex-col gap-5 body-base text-foreground/[0.65]">
             <p>
               I&apos;m not a grown adult looking back with tidy hindsight. I&apos;m 18, in Vancouver, living the tradeoffs I&apos;m investigating.
