@@ -32,15 +32,15 @@ const EpisodeDetail = () => {
         <section className="flex flex-col gap-4 max-w-[720px]">
           <h2>How This Story Came Together</h2>
           <p className="body-base text-foreground/[0.65]">
-            This episode traces Brian's path from hiding his junk‑removal side hustle from his
+            This episode traces Brian's path from hiding his junk-removal side hustle from his
             parents to building O2E Brands: three companies, 180+ franchise locations, and a seat
             as a Dragon on CBC's Dragons' Den. We follow the moments that don't fit neatly on a
-            résumé — dropping out, betting on a $700 truck, and learning how to sell an unglamorous
-            business door‑to‑door.
+            résumé: dropping out, betting on a $700 truck, and learning how to sell an unglamorous
+            business door-to-door.
           </p>
           <p className="body-base text-foreground/[0.65]">
             What you see in the episode is how a kid who didn't finish high school built a junk
-            empire — and what that says about who gets permission to build things, what counts as a
+            empire, and what that says about who gets permission to build things, what counts as a
             "real" path, and why the most powerful doors are often the ones no one is looking at.
           </p>
         </section>
